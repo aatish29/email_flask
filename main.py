@@ -1,4 +1,4 @@
-from Flask import flask
+from flask import Flask
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
